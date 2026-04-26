@@ -1,1 +1,10 @@
-
+python-telegram-bot==20.7
+groq
+google-generativeai
+opencv-python
+zxingcpp
+matplotlib
+numpy
+Pillow
+python-dotenv
+requests
